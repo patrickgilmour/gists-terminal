@@ -19,3 +19,5 @@ locate -b myFileName
 # Hide a File or Folder in the Finder
 
 chflags hidden path/to/file
+
+

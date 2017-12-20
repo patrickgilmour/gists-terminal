@@ -1,5 +1,3 @@
-# Random Terminal Stuff I Find Useful in Mac OS
+# Random Terminal Commands for Mac OS
 
-## gists-terminal
-
-Just some stuff I use occasionally
+Probably nothing in here will interest anyone except me.
